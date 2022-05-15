@@ -10,3 +10,7 @@ To build and run, execute the following.
 cmake -B build -S .
 cmake --build build
 ```
+
+### CMake
+
+I'm very unfamiliar with C++ build systems, and so I followed a pattern set out in this [repo](https://github.com/gokhanettin/cmake-example).
